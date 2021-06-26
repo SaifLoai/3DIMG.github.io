@@ -38,7 +38,7 @@ span{
 }
 span.bg1{
     left: 0;
-    background: url(img/2.jpg);
+    background: url(2.jpg);
     background-position-x: -81px;
     border-radius: 20px 0 0 20px;
     
@@ -50,7 +50,7 @@ span.bg1::before{
     left: 0;
     width: 100%;
     height: 100%;
-    background: url(img/1.jpg);
+    background: url(1.jpg);
     background-position-x: -81px;
     background-size: cover;
     transform-origin: right;
@@ -65,7 +65,7 @@ span.bg1::before{
 
 span.bg2{
     right: 0;
-    background: url(img/1.jpg);
+    background: url(1.jpg);
     background-position-x: -281px;
     background-size: cover;
     border-radius: 0 20px 20px 0;
@@ -77,7 +77,7 @@ span.bg2::before{
     left: 0;
     width: 100%;
     height: 100%;
-    background: url(img/2.jpg);
+    background: url(2.jpg);
     background-position-x: 200px;
     transform-origin: left;
     transition: 2s;
